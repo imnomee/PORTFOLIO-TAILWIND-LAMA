@@ -6,9 +6,12 @@ module.exports = {
             screens: {
                 sm: '480px',
             },
-            fontFamily: {
-                nunito: ['Nunito', 'sans-serif'],
+            spacing: {
+                big: '48rem',
             },
+        },
+        fontFamily: {
+            nunito: ['Nunito', 'sans-serif'],
         },
     },
     plugins: [],
